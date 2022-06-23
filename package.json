@@ -1,0 +1,22 @@
+{
+  "name": "@ycos/component-carousel-whats-new",
+  "version": "4.0.36",
+  "description": "whats new carousel",
+  "main": "src/index.js",
+  "author": "ISC",
+  "license": "ISC",
+  "peerDependencies": {
+    "@ycos/component-product-price": "^1.0.0",
+    "@ycos/coremedia-renderer": "^6.0.10",
+    "@ycos/fela": "*",
+    "@ycos/primitives": "*",
+    "accounting": "^0.4.1",
+    "react": "^16.8.6"
+  },
+  "dependencies": {
+    "@ynap/url-configuration": "^2.0.1"
+  },
+  "devDependencies": {
+    "@testing-library/react-hooks": "^3.3.0"
+  }
+}
